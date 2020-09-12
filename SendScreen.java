@@ -1,5 +1,3 @@
-package com.company;
-
 import javax.swing.DefaultListModel;
 import java.awt.Dimension;
 import java.awt.Rectangle;
@@ -17,10 +15,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.imageio.ImageIO;
 import javax.swing.JFrame;
-/**
- *
- * @author Knuth
- */
+
 public class SendScreen extends javax.swing.JFrame {
 
     public static int SERVERPORT = 12122;
