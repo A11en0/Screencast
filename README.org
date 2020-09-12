@@ -1,23 +1,20 @@
-* Simple Discription
-  The project just a experiements tool for screencast on cross platform.
-  These's just two module:
-  1. *SendScreen.java* as for server, which contains a GUI base on JAVA JFrame.
-  2. *Receiver.java* as for client.
+* Simple Description
+  The project just a experiement tool for screencast on cross platform.
+  These's just two modules:
+  1. *SendScreen.java* as for server, which contains a GUI based on JAVA JFrame.
+  2. *Receiver.java* as for the client.
 
 * Which you need?
   - JRE enviorment
-  - Some knowledge of Java basic...
-  - And so on
+  - Some knowledge of Java basic...And so on
   
 * Quick Start
   1. First, Compile this two .java files.
      : javac SendScreen.java 
      : javac Receiver.java
+
   2. Secend, Start SendScreen on the Server, and click start button on it.
      : java SendScreen
      
   3. Finally, Start clients connect to the Server. Before this, you need to know the server's IP address, and tell it to Receiver.
      : java Receiver
-     
-bibliographystyle:plain
-bibliography:~/org/ref/references.bib
