@@ -13,7 +13,7 @@
      : javac SendScreen.java 
      : javac Receiver.java
 
-  2. Secend, Start SendScreen on the Server, and click start button on it.
+  2. Second, Start SendScreen on the Server, and click start button on it.
      : java SendScreen
      
   3. Finally, Start clients connect to the Server. Before this, you need to know the server's IP address, and tell it to Receiver.
